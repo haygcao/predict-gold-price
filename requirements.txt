@@ -5,3 +5,4 @@ matplotlib
 numpy
 keras-tqdm
 h5py
+keras_tqdm
